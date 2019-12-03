@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8080
 
 spring:
   jackson:
@@ -9,3 +9,5 @@ spring:
     url: jdbc:h2:mem:example
     platform: h2
 
+lince:
+  userName: lince.user.name
